@@ -1,0 +1,16 @@
+../Core/Src/main.c:110:5:main	160	static
+../Core/Src/main.c:849:6:SystemClock_Config	128	static
+../Core/Src/main.c:913:13:MX_FDCAN1_Init	8	static
+../Core/Src/main.c:972:6:HAL_FDCAN_RxFifo0Callback	184	static
+../Core/Src/main.c:1394:6:haut	32	static
+../Core/Src/main.c:1401:6:bas	32	static
+../Core/Src/main.c:1408:6:lath	32	static
+../Core/Src/main.c:1413:6:lat	32	static
+../Core/Src/main.c:1418:10:rand_color	16	static
+../Core/Src/main.c:1460:6:dinam	32	static
+../Core/Src/main.c:1472:6:horizanim	24	static
+../Core/Src/main.c:1488:6:hautanim	24	static
+../Core/Src/main.c:1500:6:horizanimD	24	static
+../Core/Src/main.c:1531:6:chronogramme	32	static
+../Core/Src/main.c:1576:6:front_display	40	static
+../Core/Src/main.c:1619:6:Error_Handler	4	static,ignoring_inline_asm
