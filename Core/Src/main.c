@@ -254,7 +254,7 @@ int main(void)
 		  if(bol==1)
 		  {
 		  dinam(ILI9488_WHITE);
-		  Displ_CString(120,120,180,180,"vitesse",Font24,3,ILI9488_BLACK,ILI9488_WHITE);
+		  Displ_CString(120,120,180,180,"Vitesse",Font24,3,ILI9488_BLACK,ILI9488_WHITE);
 		  for(int u=0;u<20;u++)
 		  {
 			  lcdDrawRect(0, 100, 479, 25, ILI9488_WHITE);
